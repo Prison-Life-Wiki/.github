@@ -1,2 +1,2 @@
-# README.md
-We are the prison life wiki!
+# .github
+This is the github repo for the Prison Life Wiki on Fandom!
