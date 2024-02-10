@@ -1,2 +1,2 @@
 # .github
-This is the github repo for the Prison Life Wiki on Fandom!
+This is the GitHub organisation for the Prison Life Wiki - a wiki about a Roblox game named Prison Life.
